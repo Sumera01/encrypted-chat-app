@@ -3,7 +3,6 @@
 A secure terminal-based chat application featuring ROT4 encryption and real-time messaging with performance metrics.
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
 ![Network](https://img.shields.io/badge/Network-TCP_Sockets-orange)
 
