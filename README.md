@@ -134,10 +134,6 @@ encrypted-chat-app/
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 Your Name  
